@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/caffery/Documents/spring/android /ily/app/build/intermediates/exploded-aar/ily/truconnectandroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb908e2df2f27f75768e91ddb5c868f1a1a48f7d">
+        <dex dex="/Users/caffery/Documents/spring/android /ily/app/build/intermediates/pre-dexed/debug/classes-971afcb0fd7768d87d23a64af91f64cc9bd44df6.jar" />
+    </item>
+
+</items>
